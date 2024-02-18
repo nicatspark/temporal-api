@@ -1,0 +1,19 @@
+{
+  "name": "temporal-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "snowpack dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "snowpack": "^3.7.1"
+  },
+  "dependencies": {
+    "@js-temporal/polyfill": "^0.4.4"
+  }
+}
